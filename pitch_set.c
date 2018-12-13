@@ -1,7 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
-
 int main()
 {
 	const int bars=100, tone=5;
