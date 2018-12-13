@@ -1,4 +1,4 @@
-int main()
+main()
 {
 	const int bars=100, tone=5;
 	int result[bars][tone];
