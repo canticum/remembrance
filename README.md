@@ -1,4 +1,5 @@
-# 張俊彥：聯篇歌曲《回憶》(2003)<br>Chang, Chun-yien: _Remembrance_, a song cycle
+# 張俊彥：聯篇歌曲《回憶》(2003)
+Chun-yien Chang: _Reminiscence_, a song cycle
 
 ## 第四樂章計算輔助創作探討
 
